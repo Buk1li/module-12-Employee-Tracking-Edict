@@ -1,0 +1,21 @@
+{
+    "name": "employee-tracking-edict",
+    "version": "1.0.0",
+    "description": "A command-line application to manage a company's employee database using Node.js, Inquirer, and MySQL.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "nodejs",
+        "mysql",
+        "inquirer",
+        "employee-management"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^8.2.4",
+        "mysql2": "^3.9.7"
+    }
+}
